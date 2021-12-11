@@ -5,20 +5,9 @@
 # § for color and special symbols
 #
 # Command:
-no-permission: "§cYou don't have §aHeal Command §4permission"
+no-permission-heal: "§cYou don't have §aHeal Command §cpermission"
+no-permission-feed: "§cYou don't have §aFeed Command §cpermission"
 #
 # Message:
 message-heal: "§aYou've been healed"
 message-feed: "§aYou're full"
-not-enough-money-heal: "§cYour money is not enough"
-not-enough-money-feed: "§cYour money is not enough"
-#
-# UI
-title: "§aHeal§7And§cFeed"
-button-heal: "§aHeal"
-button-feed: "§cFeed"
-#
-# MONEY
-# Please write "0" if you don't want to pay for heal and feed, write money pay if you want to pay for heal and feed
-money-heal: "0"
-money-feed: "0"
