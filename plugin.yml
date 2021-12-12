@@ -7,7 +7,15 @@ author: Kylan1940
 commands:
   heal:
     description: "Added max player health"
-    usage: /heal
+    permission: "healandfeed-heal.command"
   feed:
     description: "Restore hunger player and hunger saturation player"
-    usage: /feed
+    permission: "healandfeed-feed.command"
+    
+permissions:
+  healandfeed-heal.command:
+    description: "Permission for heal command"
+    default: op
+  healandfeed-feed.command:
+    description: "Permission for feed command"
+    default: op
