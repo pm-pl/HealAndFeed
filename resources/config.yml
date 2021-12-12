@@ -4,10 +4,6 @@
 # \n for new line
 # § for color and special symbols
 #
-# Command:
-no-permission-heal: "§cYou don't have §aHeal Command §cpermission"
-no-permission-feed: "§cYou don't have §aFeed Command §cpermission"
-#
 # Message:
 message-heal: "§aYou've been healed"
 message-feed: "§aYou're full"
